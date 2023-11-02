@@ -1,0 +1,24 @@
+How to quantify errors:
+-err relatif
+-par cas etrêmes : image cte / image bruité 100
+
+
+
+
+
+Bias / Variance decomp :
+
+Build Règle de rejet : 
+-Rejeter quand le biais dépasse une certaine valeurs.
+- Rejeter quand la variance dépasse une certaine valeurs.
+? cmnt touver cette valeur 
+? et pour une feature rejeté, cmnt distinguer les features stables des features cte (voir inutile)
+
+
+Contraste Sensibility:
+
+
+
+Augùentation de performance: 
+OFC by égalisation d'histogramme
+
